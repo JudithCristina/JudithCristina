@@ -1,7 +1,6 @@
-# <Bienvenidos a mi Repositorio> 👋
+# Bienvenidos a mi Repositorio 👋
 
-Acerca de mi : 
-
+## Acerca de mi 🚀
 <!--
 **JudithCristina/JudithCristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
