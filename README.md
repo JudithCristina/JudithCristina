@@ -12,7 +12,6 @@
 * Me encanta cantar.
 * Jugar Fútbol.
 * Me gusta aprender algo nuevo cada día.
-* Me gusta .
 
 ## Contáctame 📫
 
