@@ -1,8 +1,12 @@
-# Bienvenidos a mi Repositorio 👋
+#  Bienvenidos a mi Repositorio 👋
 
 ## Acerca de mi 🚀
-<!--
+
 **JudithCristina/JudithCristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Soy una frontend developer, actualmente me encuentro trabajando en @HenriBarrett.
+* Tengo experiencia con tecnologías como React, Angular, WordPress, Firebase...
+* Actualmente estoy aprendiendo Python, organizandome mejor con Notion.
+* Actualmente realizando voluntariado como frontend developer en @Data Science Research Peru .
 
 Here are some ideas to get you started:
 
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
