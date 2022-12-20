@@ -9,9 +9,9 @@
 
 ## Aficiones ⚡
 
-* Me encanta cantar.
-* Jugar Fútbol.
-* Me gusta aprender algo nuevo cada día.
+* Aprender nuevas tecnologías.
+* Fútbol.
+* Ver series.
 
 ## Contáctame 📫
 
