@@ -2,15 +2,13 @@
 
 ## Acerca de mi 🚀
 
-* Soy una frontend developer, actualmente me encuentro trabajando en @HenriBarrett.
-* Tengo experiencia con tecnologías como React, Angular, WordPress, Firebase...
-* Actualmente estoy aprendiendo Python y a la vez organizandome mejor con Notion.
-* Me encantan los retos, actualmente  realizando voluntariado como frontend developer en @Data Science Research Peru .
+* Front-End Developer con background en el área de Ciencias de la Salud. Soy una profesional apasionada y orientada al trabajo colaborativo, me apasiona el desarrollo de productos tecnológicos útiles e innovadores.
 
-## Aficiones ⚡
+
+## Aficiones ⚡ 
 
 * Aprender nuevas tecnologías.
-* Fútbol.
+* Jugar fútbol.
 * Ver series.
 
 ## Contáctame 📫
