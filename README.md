@@ -1,24 +1,21 @@
-#  Bienvenidos a mi Repositorio 👋
+# 👋 ¡Bienvenidos a mi Repositorio!
 
-## Acerca de mi 🚀
+## 🚀 Acerca de mí
 
-* Front-End Developer con background en el área de Ciencias de la Salud. Soy una profesional apasionada y orientada al trabajo colaborativo, me apasiona el desarrollo de productos tecnológicos útiles e innovadores.
+Programadora en Inteligencia Artificial con formación en Ciencia de Datos y background en Ciencias de la Salud.  
+Me apasiona el desarrollo de soluciones que combinan tecnología, datos y aprendizaje automático para generar impacto real.  
+Tengo experiencia en proyectos de *deep learning*, procesamiento de lenguaje natural (NLP), modelos LLM, desarrollo de chatbots integrando APIs como WhatsApp, OpenAI y LLaMA, además de automatización de procesos y preprocesamiento de datos con Python.  
 
+Me considero una profesional autodidacta, proactiva y comprometida con la mejora continua.
 
-## Aficiones ⚡ 
+## ⚡ Aficiones
 
-* Aprender nuevas tecnologías.
-* Jugar fútbol.
-* Ver series.
+* Aprender nuevas tecnologías
+* Jugar fútbol
+* Ver series
 
-## Contáctame 📫
+## 📫 Contáctame
 
-* [JudithCristina](https://www.linkedin.com/in/judithcristina/) - Linkedin
-* [@JudithCristinaQ](https://twitter.com/JudithCristinaQ) - twitter
-* judithcristinaqi@gmail.com
-
-
----
-⌨️ con ❤️ por [JudithCristina](https://judithcristina.github.io/My-portfolio/index.html) 😊
-
-
+* [JudithCristina](https://www.linkedin.com/in/judithcristina/) – LinkedIn  
+* [@JudithCristinaQ](https://twitter.com/JudithCristinaQ) – Twitter  
+* judithcristinaqi@gmail.com  
